@@ -111,3 +111,6 @@ redisClient.redis.on("connect", () => {
     console.log(`Server running on Port ${PORT}`);
   })  
 });
+
+
+export default app;
